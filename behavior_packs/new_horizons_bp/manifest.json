@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "New Horizons Behavior Pack",
+    "description": "Adds the New Horizons music disc and wandering trader offer.",
+    "uuid": "8b4c57ac-ef3e-4f7d-bf0f-0dbb5a3578b1",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "5f57e832-99fd-4e74-84fd-5e725b67ef1e",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "f20c6f3e-1048-4e19-9234-0d4b6b7ac59d",
+      "version": [1, 0, 0]
+    }
+  ]
+}

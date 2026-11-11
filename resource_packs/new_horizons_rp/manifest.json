@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "New Horizons Resource Pack",
+    "description": "Names and displays the New Horizons music disc.",
+    "uuid": "f20c6f3e-1048-4e19-9234-0d4b6b7ac59d",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "9e59beef-7e37-4ee0-a8bb-fd7220e058c5",
+      "version": [1, 0, 0]
+    }
+  ]
+}
